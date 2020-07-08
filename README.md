@@ -4,7 +4,15 @@ Aplicativo desenvolvido no curso de TypeScript e Angular da [Udemy]. (https://ww
 
 Jogo para aprender inglês, onde o jogador deve ler a frase em inglês e escrever a tradução.
 
+## App rodando na nuvem da amazon
 
+[START](http://app1-teste-publicacao-369.s3-website-sa-east-1.amazonaws.com/)
+
+## Screenshots
+
+| Printscreen da Tela |
+| --------|
+|<img src="image/PrintScreen.png">|
 
 ## Getting Started
 
@@ -18,8 +26,4 @@ Execute `ng serve` para um servidor dev. Navegue para `http://localhost:4200/` O
 
 Para obter mais ajuda sobre o CLI angular, use `ng help` ou vá para o [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
-## Screenshots
 
-| Printscreen da Tela |
-| --------|
-|<img src="app1/image/PrintScreen.png">|
